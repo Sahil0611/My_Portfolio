@@ -3,7 +3,7 @@
 Welcome to my personal developer portfolio! This site showcases my skills, projects, experience, and certifications as a Front-End Developer and Machine Learning enthusiast.
 
 ## 🌐 Live Site
-🔗[View Portfolio](my-portfolio-inky-eta-35.vercel.app)
+🔗(my-portfolio-inky-eta-35.vercel.app)
 
 ## 📌 Features
 
